@@ -1,2 +1,2 @@
 pwd for print working directory
-ls for display the contents list
+ls for display the contents list of current directory
