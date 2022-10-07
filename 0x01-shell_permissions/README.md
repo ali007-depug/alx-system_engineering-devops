@@ -1,2 +1,4 @@
 su
 whoami
+groups
+chown
